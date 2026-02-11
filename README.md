@@ -47,9 +47,3 @@ or connect with me on [Twitter](https://twitter.com/steelydylan).
 - English
 - AI & LLM integrations
 
----
-
-## Summary 📊
-
-[![steelydylan's GitHub stats](https://github-readme-stats.vercel.app/api?username=steelydylan&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/steelydylan/)
-[![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=steelydylan&layout=compact&theme=tokyonight)](https://github.com/steelydylan/)
